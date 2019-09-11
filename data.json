@@ -2,7 +2,7 @@
     "portfolio" : [
         {
             "id" : 1,
-            "projectname" : "WebSite",
+            "projectname" : "Web Site",
             "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
         },
         {
@@ -13,12 +13,12 @@
         {
             "id" : 3,
             "projectname" : "App",
-            "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+            "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa. Necessitatibus reprehenderit beatae dolore itaque laboriosam eum suscipit deleniti? Unde, natu"
         },
         {
             "id" : 4,
             "projectname" : "Web App",
-            "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+            "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa. At vel aut consequatur quod est aspernatur."
         },
         {
             "id" : 5,
