@@ -34,3 +34,18 @@ p {
     font-size: 1.2rem;  
     line-height: 2rem;
 }
+.hero {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+
+    display: grid;
+    align-content: center;
+    text-align: center;
+    color: var(--light);
+    
+}
+.tagline {
+    margin-top: 5rem;
+}
